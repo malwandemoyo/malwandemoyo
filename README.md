@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Mal and I'm a Software Engineer, from Bulawayo, Zimbabwe</h2>
+<h2 align="left">Hi 👋!</h2>
+<h2>My name is Mal and I'm a Software Engineer,</h2>
+<h3>from Bulawayo, Zimbabwe.</h3>
 
 ###
 
@@ -86,10 +88,3 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malwandemoyo/malwandemoyo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malwandemoyo/malwandemoyo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/malwandemoyo/malwandemoyo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
