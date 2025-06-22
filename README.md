@@ -1,6 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Mal</h1>
+<h1 align="left">Hey there 👋, I'm Mal</h1>
 
-<p align="center">
+<p align="left">
   <strong>Software Developer & Electronics Student</strong> from <strong>Bulawayo, Zimbabwe</strong> 🇿🇼<br/>
   I build lean software and design user-centered interfaces that solve real-world challenges.
 </p>
