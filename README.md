@@ -64,7 +64,7 @@
 
 📬 **Let's Connect**
 
-- 🌍 [malwande.me](https://malwande.me) — my personal site
+- 🌍 [malwande.me](https://malwande.me)
 - 💼 [LinkedIn](https://www.linkedin.com/in/malwande-moyo-a066a81b2)
 - 💬 Always up for collaboration, experimentation, and dope conversations
 
