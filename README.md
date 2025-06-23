@@ -1,4 +1,4 @@
-<h1 align="left">Hey there 👋, I'm Mal</h1>
+<h1 align="left">Hey there 👋🏿, I'm Mal</h1>
 
 <p align="left">
   <strong>Software Developer & Electronics Student</strong> from <strong>Bulawayo, Zimbabwe</strong> 🇿🇼<br/>
