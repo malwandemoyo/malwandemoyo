@@ -12,8 +12,8 @@
 - 🧠 I'm a self-taught developer currently pursuing a **Bachelor's in Electronic Engineering**.
 - 🔧 I specialize in **Python**, **C/C++**, **Go**, **JavaScript** and **TypeScript**.
 - 📡 I work at the intersection of **software, hardware, and automation**.
-- 🧪 Most of my skills come from **learning by doing** – tinkering, mimicking, and building.
-- 👂 I thrive by observing systems and improving them through intentional design.
+- 🧪 Most of my skills come from **learning by doing**.
+  
 ---
 
 🛠️ **Tech Stack I'm Playing With:**
@@ -55,7 +55,7 @@
 
 ---
 
-🌱 **Side Quests**
+🌱 **Side Adventures**
 
 - 🌿 Tinkering with electronics in my home garden
 - 🎛️ Designing minimalist, sci-fi-inspired UIs
