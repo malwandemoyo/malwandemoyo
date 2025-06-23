@@ -10,9 +10,9 @@
 🎓 **About Me**
 
 - 🧠 I'm a self-taught developer currently pursuing a **Bachelor's in Electronic Engineering**.
-- 🔧 I specialize in **Python**, **C/C++**, **Go**, and **TypeScript**.
+- 🔧 I specialize in **Python**, **C/C++**, **Go**, **JavaScript** and **TypeScript**.
 - 📡 I work at the intersection of **software, hardware, and automation**.
-- 🧪 Most of my skills come from **learning by doing** — tinkering, mimicking, and building.
+- 🧪 Most of my skills come from **learning by doing** - tinkering, mimicking, and building.
 - 👂 I thrive by observing systems and improving them through intentional design.
 
 ---
@@ -66,7 +66,7 @@
 
 - 🌍 [malwande.me](https://malwande.me)
 - 💼 [LinkedIn](https://www.linkedin.com/in/malwande-moyo-a066a81b2)
-- 💬 Always up for collaboration, experimentation, and dope conversations
+- 💬 Iam always up for collaborations, experimentation, and dope conversations
 
 ---
 
