@@ -14,8 +14,6 @@
 - 📡 I work at the intersection of **software, hardware, and automation**.
 - 🧪 Most of my skills come from **learning by doing** – tinkering, mimicking, and building.
 - 👂 I thrive by observing systems and improving them through intentional design.
-- 🎵 I also make music, build tools, and prototype SaaS apps that bring ideas to life.
-
 ---
 
 🛠️ **Tech Stack I'm Playing With:**
@@ -53,6 +51,7 @@
 - 📊 Making complex data easy to understand through interactive dashboards
 - 🔭 Exploring ways to blend code with physical systems
 - 🤖 Building embedded systems with clean and intuitive interface designs
+- 🖥️ Ship SaaS products designed around real use cases
 
 ---
 
@@ -61,6 +60,8 @@
 - 🌿 Tinkering with electronics in my home garden
 - 🎛️ Designing minimalist, sci-fi-inspired UIs
 - 🔌 Creating tools that bring software closer to the real world
+- 🎵 Making music. Sometimes it slaps, sometimes it’s weird. That’s the fun.
+- 🧪 Crafting tools. Mostly for myself. Sometimes I remember to ship them.
 
 ---
 
