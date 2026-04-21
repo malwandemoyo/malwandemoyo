@@ -1,72 +1,72 @@
-<h1 align="left">Hey there 👋🏿, I'm Mal</h1>
+<h1 align="left">Hi 👋🏿, I'm Mal</h1>
 
 <p align="left">
-  <strong>Software Developer & Electronics Student</strong> from <strong>Bulawayo, Zimbabwe</strong> 🇿🇼<br/>
-  I build lean software and design user-centered interfaces that solve real-world challenges.
+  <strong>Software Developer & Electronics Engineering Students</strong> from <strong>Bulawayo, Zimbabwe</strong> 🇿🇼<br/>
+  I build efficient software and design intuitive interfaces that bridge the gap between digital and physical systems.
 </p>
 
 ---
 
-🎓 **About Me**
+🎓 <strong>About Me</strong>
 
-- 🧠 I'm a self-taught developer currently pursuing a **Bachelor's in Electronic Engineering**.
-- 🔧 I specialize in **Python**, **C/C++**, **Go**, **JavaScript** and **TypeScript**.
-- 📡 I work at the intersection of **software, hardware, and automation**.
-- 🧪 Most of my skills come from **learning by doing**.
-  
+- 🧠 Self-taught developer pursuing a <strong>Bachelor’s in Electronic Engineering</strong>  
+- 🔧 Working across <strong>Python, C/C++, Go, JavaScript, and TypeScript</strong>  
+- 📡 Focused on <strong>software + hardware + automation</strong> systems  
+- 🧪 I learn fast by building real things — then refining them  
+
 ---
 
-🛠️ **Tech Stack I'm Playing With:**
+🛠️ <strong>Tech Stack</strong>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="25" alt="Arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="25" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" alt="Go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="25" alt="MATLAB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="25" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="25" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="25" alt="Raspberry Pi" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="25" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="25" alt="Svelte" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="25" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" />
 </div>
 
 ---
 
-🚀 **Current Focus**
+🚀 <strong>Current Focus</strong>
 
-- 🌐 Developing full-stack web apps for control, automation, and visualization
-- 📊 Making complex data easy to understand through interactive dashboards
-- 🔭 Exploring ways to blend code with physical systems
-- 🤖 Building embedded systems with clean and intuitive interface designs
-- 🖥️ Ship SaaS products designed around real use cases
-
----
-
-🌱 **Side Adventures**
-
-- 🌿 Tinkering with electronics in my home garden
-- 🎛️ Designing minimalist, sci-fi-inspired UIs
-- 🔌 Creating tools that bring software closer to the real world
-- 🎵 Making music. Sometimes it slaps, sometimes it’s weird. That’s the fun.
-- 🧪 Crafting tools. Mostly for myself. Sometimes I remember to ship them.
+- 🌐 Building full-stack systems for <strong>control, automation, and visualization</strong>  
+- 📊 Turning complex data into <strong>clear, interactive dashboards</strong>  
+- 🔭 Integrating <strong>software with real-world hardware systems</strong>  
+- 🤖 Designing embedded systems with <strong>clean, human-centered interfaces</strong>  
+- 🖥️ Shipping <strong>practical SaaS tools</strong> that solve real problems  
 
 ---
 
-📬 **Let's Connect**
+🌱 <strong>Side Adventures</strong>
 
-- 💬 Im always up for collaborations, experimentation and dope conversations  
-- 🌍 [malwande.me](https://malwande.me)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/malwande-moyo-a066a81b2)
+- 🌿 Experimenting with electronics in my home lab  
+- 🎛️ Designing <strong>minimalist, sci-fi-inspired interfaces</strong>  
+- 🔌 Building tools that connect code to the physical world  
+- 🎵 Making music — sometimes clean, sometimes chaotic  
+- 🧪 Creating tools for myself… occasionally releasing them  
+
+---
+
+📬 <strong>Let’s Connect</strong>
+
+- 💬 Open to collaborations, experiments, and interesting ideas  
+- 🌍 https://malwande.me  
+- 💼 https://www.linkedin.com/in/malwande-moyo-a066a81b2  
