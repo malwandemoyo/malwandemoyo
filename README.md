@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋🏿, I'm Mal</h1>
 
 <p align="left">
-  <strong>Software Developer & Electronics Engineering Students</strong> from <strong>Bulawayo, Zimbabwe</strong> 🇿🇼<br/>
+  <strong>Systems Engineer</strong> from <strong>Bulawayo, Zimbabwe</strong> 🇿🇼<br/>
   I build efficient software and design intuitive interfaces that bridge the gap between digital and physical systems.
 </p>
 
