@@ -9,7 +9,7 @@
 
 🎓 <strong>About Me</strong>
 
-- 🧠 Self-taught developer pursuing a <strong>Bachelor’s in Electronic Engineering</strong>  
+- 🧠 Currently pursuing a <strong>Bachelor’s in Electronic Engineering</strong>  
 - 🔧 Working across <strong>Python, C/C++, Go, JavaScript, and TypeScript</strong>  
 - 📡 Focused on <strong>software + hardware + automation</strong> systems  
 - 🧪 I learn fast by building real things — then refining them  
