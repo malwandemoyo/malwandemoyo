@@ -7,12 +7,12 @@
 
 ---
 
-🎓 <strong>About Me</strong>
+<strong>About Me</strong>
 
-- 🧠 Currently pursuing a <strong>Bachelor’s in Electronic Engineering</strong>  
-- 🔧 Working across <strong>Python, C/C++, Go, JavaScript, and TypeScript</strong>  
-- 📡 Focused on <strong>software + hardware + automation</strong> systems  
-- 🧪 I learn fast by building real things — then refining them  
+- Currently pursuing a <strong>Bachelor’s in Electronic Engineering</strong>  
+- Working across <strong>Python, C/C++, Go, JavaScript, and TypeScript</strong>  
+- Focused on <strong>software + hardware + automation</strong> systems  
+- I learn fast by building real things  then refining them  
 
 ---
 
@@ -68,5 +68,5 @@
 📬 <strong>Let’s Connect</strong>
 
 - 💬 Open to collaborations, experiments, and interesting ideas  
-- 🌍 https://malwande.me  
+- 🌍 https://malwande.vercel.me 
 - 💼 https://www.linkedin.com/in/malwande-moyo-a066a81b2  
